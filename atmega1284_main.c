@@ -251,7 +251,7 @@ void motor_function (unsigned char input){
 	
 }
 
-
+z
 
 int main(void)
 {
@@ -263,7 +263,8 @@ int main(void)
     while (1) 
     {
 	
-		//run tests here
+		auto_run(150);
+		//selecFunc();
 			
     }
 }
